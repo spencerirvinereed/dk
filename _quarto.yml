@@ -5,25 +5,25 @@ project:
     - "*.md"
 
 website:
-  title: "Marie Curie"
+  title: "DK"
   site-url: "https://mariecurie.com"
   navbar:
     background: "#536878"
     left:
       - href: blog/index.qmd
-        text: Blog
+        text: Web Logs
       - href: publications/index.qmd
-        text: Publications
+        text: Future Publications
       - href: software/index.qmd
-        text: Software
+        text: Lessons from Work
       - href: talks/index.qmd
         text: Talks
       - href: teaching/index.qmd
-        text: Teaching
+        text: Learning
       - href: about/index.qmd
-        text: About
+        text: Of My Soul
   page-footer:
-    left: "Copyright 2022, Marie Curie"
+    left: "All Rights Reserved"
     right:
       - icon: github
         href: https://github.com/mariecurie

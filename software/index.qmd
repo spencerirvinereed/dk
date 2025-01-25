@@ -1,1 +1,6 @@
-# Selected R packages I've coauthored
+# Career Lessons
+
+Things learned while working with others.
+
+## Project Management
+

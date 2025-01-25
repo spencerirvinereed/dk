@@ -1,11 +1,11 @@
 ---
-date: "1902-09-07"
-title: "My xray experiments"
+date: "2005-01-23"
+title: "My Thoughts and Yours"
 categories:
   - physics
   - chemistry
   - radiation
-image: mc_image.jpg
+image: dk_bw.jpg
 ---
 
-I've been playing with uranium rays ...
+My thoughts, transitioning into words

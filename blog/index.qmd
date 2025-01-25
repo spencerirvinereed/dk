@@ -1,6 +1,6 @@
 ---
-title: "My blog"
-description: Thoughts on research
+title: "My Logs"
+description: Thoughts on Life & Happenings
 listing:
   contents: .
   sort: "date desc"

@@ -1,0 +1,9 @@
+---
+date: "2005-01-25"
+title: "2nd Entry"
+categories:
+  - language
+image: dk_bw.jpg
+---
+
+Languages are important
