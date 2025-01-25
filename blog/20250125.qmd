@@ -1,9 +1,63 @@
 ---
-date: "2005-01-25"
-title: "2nd Entry"
+date: "2025-01-25"
+title: "Workplace Heirarchy"
 categories:
-  - language
-image: dk_bw.jpg
+  - work
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-Languages are important
+A big part of American buildings are its parking lots.
+If planned correctly, one can get some exercise walking to and from the parked car to the place of work.
+
+Often, one notices, luxury cars.
+How it would be to drive a BMW 7 series or a Lexus LX (Land Cruiser)
+
+In many of the factories in the Salt Lake Valley, one can find immigrants at work.
+Hard workers, often not able to communicate in the language of the workplace.
+Surprising to hear that they held a professional roles, yet consigned to manual labor roles in America.
+
+------------------------------------------------------------------------
+
+As a group of engineers, we were preparing for an upcoming Phase Review.
+We lamented the un-fair, low value-added, tasks we were asked to complete.
+
+We agreed that the better review might be a peer review.
+A fellow engineer questioning the work of another technical worker.
+
+However enlightened that approach, we will never get to practice that methodology.
+In this era of ISO,
+
+> International Organization for Standardization, a global, independent, non-governmental organization that develops and publishes standards for a wide range of industries and sectors.
+
+It seems, by signing up for an international order, we often give up flexibility as well as efficacy of simpler approaches
+
+------------------------------------------------------------------------
+
+Recall an exchange between Milton Friedman and a college student.^[https://youtu.be/3kx\_\_dnAWqQ?si=BbaEoUZp1Nqejkrf&t=73]
+
+> ...but as you grow up you will discover that this is really a Family Society and not an Individual Society.
+
+The young man gave, 100% Inheritance Tax a possible means of re-distributing the wealth.
+
+Milton then gave this lecture to the young man
+
+> ...one of the most curious things to me in observation is that almost all people value the utility which their children will get from consumption higher than they value their own
+
+> here are parents who have every reason to expect that their children will have a higher income than they ever had and they scrimp and save in order to be able to leave something for their children
+
+------------------------------------------------------------------------
+
+It is not surprising to find immigrant's children become quickly assimilated, and taken on the role of that their parents held, in the new country.
+
+Brings to mind words found in Matthew, 20th Chapter
+
+> So the last shall be first, and the first last: for many be called, but few chosen.
+
+I will continue in the path of chosen profession and faith.\
+That by leaving something for the children, that something will have a higher utility and meaning for them.
+
+As my parents did for me and my siblings.
+
+![](images/20250118_000832.jpg)

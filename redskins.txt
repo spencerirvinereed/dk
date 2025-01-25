@@ -1,0 +1,52 @@
+Year	Wins	Losses	Ties	Notes
+1974	10	4	0	Strong season
+1975	8	6	0	Competitive year
+1976	10	4	0	Strong performance
+1977	9	5	0	Above average
+1978	8	8	0	Balanced season
+1979	10	6	0	Playoff contention
+1980	6	10	0	Struggled
+1981	8	8	0	Rebuilding year
+1982	8	1	0	Strike-shortened; Super Bowl win
+1983	14	2	0	Outstanding season
+1984	11	5	0	Strong performance
+1985	10	6	0	Consistent year
+1986	12	4	0	Deep playoff run
+1987	11	4	0	Strike-shortened; Super Bowl win
+1988	7	9	0	Missed playoffs
+1989	10	6	0	Solid season
+1990	10	6	0	Playoff team
+1991	14	2	0	Super Bowl win; dominant season
+1992	9	7	0	Playoff team
+1993	4	12	0	Poor performance
+1994	3	13	0	Rebuilding
+1995	6	10	0	Struggled
+1996	9	7	0	Improved
+1997	8	7	1	Mediocre
+1998	6	10	0	Below expectations
+1999	10	6	0	Playoff team
+2000	8	8	0	Missed playoffs
+2001	8	8	0	Balanced season
+2002	7	9	0	Struggled
+2003	5	11	0	Rebuilding
+2004	6	10	0	Mediocre
+2005	10	6	0	Playoff appearance
+2006	5	11	0	Below expectations
+2007	9	7	0	Playoff contention
+2008	8	8	0	Balanced season
+2009	4	12	0	Poor season
+2010	6	10	0	Mediocre
+2011	5	11	0	Struggled
+2012	10	6	0	Playoff team; strong rookie season
+2013	3	13	0	Major struggles
+2014	4	12	0	Rebuilding
+2015	9	7	0	Playoff appearance
+2016	8	7	1	Mediocre
+2017	7	9	0	Missed playoffs
+2018	7	9	0	Struggled
+2019	3	13	0	Poor season
+2020	7	9	0	Playoff team in a weak division
+2021	7	10	0	Missed playoffs
+2022	8	8	1	Balanced season
+2023	4	13	0	Struggled
+2024	12	5	0	miracle
