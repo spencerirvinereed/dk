@@ -3,6 +3,9 @@ date: "2025-01-23"
 title: "Daniel and the Lions"
 categories:
   - religion
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
 Saw a colleague wearing a Philadelphia Eagles jersey.
@@ -27,7 +30,7 @@ And whether he was offended by the name Redskins.
 He said that was the wrong decision.
 Made by people with nothing better to do.
 
----
+------------------------------------------------------------------------
 
 My father and I, along with sisters started following Football games.
 My mom, not so much.
@@ -42,22 +45,25 @@ A loss by team would effect my mood, sometimes for days.
 If the loss came at the hands of those Cowboys.
 
 ```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| label: fig-chart
-#| fig-cap: "Washington Football Team Winning Percentage: Last 50 Years"
-library(tidyverse)
-setwd("~/Library/CloudStorage/OneDrive-moxtek.com/R/20250124 DK Website")
-df <- read_delim("redskins.txt", delim = "\t", escape_double = FALSE, trim_ws = TRUE)
-df$percent=df$Wins/(df$Wins+df$Losses+df$Ties)
-df |> 
-  ggplot(aes(Year, percent)) +
-  geom_path() +
-  geom_path() +
-  geom_hline(yintercept = .5) +
-  labs(y="Winning Percentage")
+
 ```
+
+![](images/fig-chart-1.png)#\| echo: false
+#\| message: false
+#\| warning: false
+#\| label: fig-chart
+#\| fig-cap: "Washington Football Team Winning Percentage: Last 50 Years"
+library(tidyverse)
+setwd("\~/Library/CloudStorage/OneDrive-moxtek.com/R/20250124 DK Website")
+df \<- read_delim("redskins.txt", delim = "\\t", escape_double = FALSE, trim_ws = TRUE)
+df\$percent=df\$Wins/(df\$Wins+df\$Losses+df\$Ties)
+df \|\>
+ggplot(aes(Year, percent)) +
+geom_path() +
+geom_path() +
+geom_hline(yintercept = .5) +
+labs(y="Winning Percentage")
+
 I left Washington area when Redskins reached their heights.
 Winning Super Bowl while I was serving a mission.
 
@@ -69,7 +75,7 @@ I was nearly freed from following the team, seemingly destined for NFL mediocrit
 
 Then came Daniel, Jayden Daniels (JD)
 
---- 
+------------------------------------------------------------------------
 
 Not only did he turned the fortunes of the team, he brought a dimension to football seldom seen.
 He talked of Lord, regularly.
@@ -84,12 +90,10 @@ In another, he began and ended the converstation with,
 
 A commentator, commenting on recent success of JD, invoked the Biblical story of Daniel going into the Den of Lions.
 
-Refreshing to hear an athlete give credit to the Source of all blessings and wisdom
-Football with other sports have become a source of entertainment.
+Refreshing to hear an athlete give credit to the Source of all blessings and wisdom Football with other sports have become a source of entertainment.
 
 However, it is always reassuring to hear a young person recognize help from others.
 
 Regardless of the outcome of the rest of the season, we now have a winner that represents the Nation's Capital and the surrounding areas of Delaware, Maryland, and Virginia (DMV).
 
 > Hail to the Redskins!
-
