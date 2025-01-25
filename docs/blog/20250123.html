@@ -176,7 +176,12 @@ ul.task-list li input[type="checkbox"] {
 <p>It took us several years to understand the intricacies of the game. Once we understood the basics, we became a devoted fans.</p>
 <p>At that time, our enemies were the Cardinals, Eagles, Giants, and the Cowboys. We hated those Cowboys.</p>
 <p>A loss by team would effect my mood, sometimes for days. If the loss came at the hands of those Cowboys.</p>
-<p><img src="images/fig-chart-1.png" class="img-fluid">#| echo: false #| message: false #| warning: false #| label: fig-chart #| fig-cap: “Washington Football Team Winning Percentage: Last 50 Years” library(tidyverse) setwd(“~/Library/CloudStorage/OneDrive-moxtek.com/R/20250124 DK Website”) df &lt;- read_delim(“redskins.txt”, delim = “\t”, escape_double = FALSE, trim_ws = TRUE) df$percent=df$Wins/(df$Wins+df$Losses+df$Ties) df |&gt; ggplot(aes(Year, percent)) + geom_path() + geom_path() + geom_hline(yintercept = .5) + labs(y=“Winning Percentage”)</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/fig-chart-1.png" class="img-fluid figure-img"></p>
+<figcaption>Washington Football Team Winning Percentage: Last 50 Years</figcaption>
+</figure>
+</div>
 <p>I left Washington area when Redskins reached their heights. Winning Super Bowl while I was serving a mission.</p>
 <p>Even when I moved to Utah, I would check their scores once in a while. Then years of famine, no decades of futility followed.</p>
 <p>There were few flashes of success, including 10 years ago when Robert Griffin III was drafted. I was nearly freed from following the team, seemingly destined for NFL mediocrity.</p>

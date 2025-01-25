@@ -44,25 +44,8 @@ We hated those Cowboys.
 A loss by team would effect my mood, sometimes for days.
 If the loss came at the hands of those Cowboys.
 
-```{r}
 
-```
-
-![](images/fig-chart-1.png)#\| echo: false
-#\| message: false
-#\| warning: false
-#\| label: fig-chart
-#\| fig-cap: "Washington Football Team Winning Percentage: Last 50 Years"
-library(tidyverse)
-setwd("\~/Library/CloudStorage/OneDrive-moxtek.com/R/20250124 DK Website")
-df \<- read_delim("redskins.txt", delim = "\\t", escape_double = FALSE, trim_ws = TRUE)
-df\$percent=df\$Wins/(df\$Wins+df\$Losses+df\$Ties)
-df \|\>
-ggplot(aes(Year, percent)) +
-geom_path() +
-geom_path() +
-geom_hline(yintercept = .5) +
-labs(y="Winning Percentage")
+![Washington Football Team Winning Percentage: Last 50 Years](images/fig-chart-1.png)
 
 I left Washington area when Redskins reached their heights.
 Winning Super Bowl while I was serving a mission.
