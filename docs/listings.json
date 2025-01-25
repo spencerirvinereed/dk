@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/french_academy_1901.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/20250125.html",
+      "/blog/20250124.html",
+      "/blog/radioactivity.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/uranium.html"
+    ]
+  }
+]
