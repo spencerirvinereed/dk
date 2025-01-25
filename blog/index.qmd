@@ -1,5 +1,5 @@
 ---
-title: "My Logs"
+title: "As Life Coalesces"
 description: Thoughts on Life & Happenings
 listing:
   contents: .
